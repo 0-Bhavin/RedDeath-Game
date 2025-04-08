@@ -12,3 +12,4 @@ UserSettings/
 *.userprefs
 *.pidb
 .vscode/
+Output/
